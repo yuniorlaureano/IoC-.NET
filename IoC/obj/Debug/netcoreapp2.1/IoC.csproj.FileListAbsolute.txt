@@ -1,0 +1,11 @@
+C:\Users\yu.laureano\source\repos\IoC\IoC\bin\Debug\netcoreapp2.1\IoC.deps.json
+C:\Users\yu.laureano\source\repos\IoC\IoC\bin\Debug\netcoreapp2.1\IoC.runtimeconfig.json
+C:\Users\yu.laureano\source\repos\IoC\IoC\bin\Debug\netcoreapp2.1\IoC.runtimeconfig.dev.json
+C:\Users\yu.laureano\source\repos\IoC\IoC\bin\Debug\netcoreapp2.1\IoC.dll
+C:\Users\yu.laureano\source\repos\IoC\IoC\bin\Debug\netcoreapp2.1\IoC.pdb
+C:\Users\yu.laureano\source\repos\IoC\IoC\obj\Debug\netcoreapp2.1\IoC.csprojAssemblyReference.cache
+C:\Users\yu.laureano\source\repos\IoC\IoC\obj\Debug\netcoreapp2.1\IoC.csproj.CoreCompileInputs.cache
+C:\Users\yu.laureano\source\repos\IoC\IoC\obj\Debug\netcoreapp2.1\IoC.AssemblyInfoInputs.cache
+C:\Users\yu.laureano\source\repos\IoC\IoC\obj\Debug\netcoreapp2.1\IoC.AssemblyInfo.cs
+C:\Users\yu.laureano\source\repos\IoC\IoC\obj\Debug\netcoreapp2.1\IoC.dll
+C:\Users\yu.laureano\source\repos\IoC\IoC\obj\Debug\netcoreapp2.1\IoC.pdb
